@@ -2,11 +2,11 @@
   <img src="https://i.postimg.cc/wjqRfYvH/manoscompu.gif" width="480" height="360" />
    <br></br>
   <h1 align="center">✨ Welcome to my Github ✨</h1>
-  <div id="badges" align="center">
+<!--  <div id="badges" align="center">
    <br></br>
     <img src="https://img.shields.io/github/watchers/ViankaVargas/ViankaVargas?logoColor=pink&style=social" />
     <br></br>
-  </div>
+  </div> -->
   <p>👋 Hi, I'm Vianka Vargas 👋</p>
   <p>I'm a Web Developer 👩🏽‍💻 </p>
   <p>I’m currently learning Bootstrap, Tailwind, Drupal and React.js ✅</p>
